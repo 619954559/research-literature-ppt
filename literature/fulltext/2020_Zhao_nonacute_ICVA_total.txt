@@ -1,0 +1,511 @@
+                                                                                                                                                  ORIGINAL RESEARCH
+                                                                                                                                            published: 16 November 2020
+                                                                                                                                          doi: 10.3389/fneur.2020.598795
+
+
+
+
+                                               Symptomatic Atherosclerotic
+                                               Non-acute Intracranial Vertebral
+                                               Artery Total Occlusion: Clinical
+                                               Features, Imaging Characteristics,
+                                               Endovascular Recanalization, and
+                                               Follow-up Outcomes
+                                               Wei Zhao, Jun Zhang, Yao Meng, Yuyan Zhang, Jinping Zhang, Yun Song, Lili Sun,
+                                               Meimei Zheng, Wei Wang, Hao Yin and Ju Han*
+
+                                               Department of Neurology, The First Affiliated Hospital of Shandong First Medical University and Shandong Provincial
+                                               Qianfoshan Hospital, Jinan, China
+
+
+
+                                               Background and Objectives: Previous studies on symptomatic atherosclerotic
+                          Edited by:           non-acute intracranial vertebral artery total occlusion that was refractory to medical
+                        Yisen Zhang,
+     Capital Medical University, China         therapy are rare. We aimed to assess the clinical features, imaging characteristics,
+                        Reviewed by:           endovascular treatment feasibility and follow-up outcomes of patients with this condition.
+                       Yong-Won Kim,
+                                               Methods: Data from consecutive patients who had symptomatic atherosclerotic
+        Kyungpook National University
+               Hospital, South Korea           non-acute intracranial vertebral artery total occlusion and underwent endovascular
+           Waldo Rigoberto Guerrero,           recanalization from February 2016 to April 2020 were retrospectively collected in our
+           University of South Florida,
+                         United States
+                                               prospective database. Clinical, imaging, procedural, and follow-up data were collected
+                  *Correspondence:
+                                               and analyzed.
+                             Ju Han
+                                               Results: Thirty-one patients, predominantly males, were enrolled in this study. These
+                  hanjujack@163.com
+                                               patients presented with recurrent/progressive stroke in the posterior circulation despite
+                  Specialty section:           aggressive medical therapy. Angiographic analysis revealed asymmetric vertebral arteries
+        This article was submitted to          due to unilateral hypoplasia and intracranial vertebral artery total occlusions in the
+      Endovascular and Interventional
+                           Neurology,          dominant vertebral arteries, which were characterized by long lesion length and high
+              a section of the journal         clot burden. Multiple infarctions and perfusion defects in the posterior circulation were
+               Frontiers in Neurology
+                                               demonstrated by diffusion-weighted imaging and arterial spin labeling, respectively.
+         Received: 25 August 2020
+                                               Successful endovascular recanalization was achieved in 87.1% of the patients. Over
+        Accepted: 21 October 2020
+      Published: 16 November 2020              a median clinical follow-up duration of 11.0 months, 74.1% of patients with successful
+                              Citation:        recanalization achieved favorable clinical outcomes (mRS score ≤2).
+  Zhao W, Zhang J, Meng Y, Zhang Y,
+   Zhang J, Song Y, Sun L, Zheng M,
+                                               Conclusion: Symptomatic atherosclerotic non-acute intracranial vertebral artery
+     Wang W, Yin H and Han J (2020)            total occlusion attributable to hypoperfusion is characterized by recurrent/progressive
+         Symptomatic Atherosclerotic
+                                               ischemic events, dominant intracranial vertebral artery total occlusion, long lesion length,
+Non-acute Intracranial Vertebral Artery
+    Total Occlusion: Clinical Features,        and high clot burden. Endovascular recanalization of the dominant intracranial vertebral
+Imaging Characteristics, Endovascular          artery occlusion appears to be a feasible treatment for these patients.
+        Recanalization, and Follow-up
+ Outcomes. Front. Neurol. 11:598795.           Keywords: atherosclerosis, non-acute intracranial vertebral artery occlusion, features, endovascular treatment,
+     doi: 10.3389/fneur.2020.598795            outcome
+
+
+
+
+Frontiers in Neurology | www.frontiersin.org                                          1                                      November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                             Intracranial Vertebral Artery Total Occlusion
+
+
+
+INTRODUCTION                                                             Clinical Assessment
+                                                                         We assessed the patient demographic information and
+The intracranial vertebral artery (ICVA) is a common site                cardiovascular risk factors, including age, sex, hypertension,
+of atherosclerotic occlusion that is often involved bilaterally;         diabetes mellitus, hyperlipidemia, previous history of stroke,
+however, the ICVA has received the least attention, especially           coronary artery disease, atrial fibrillation, and smoking. The
+concerning the treatment of occlusive lesions (1). A subset              modified Rankin scale (mRS) scores and the National Institutes
+of patients survive the acute ICVA occlusion stage and                   of Health Stroke Scale (NIHSS) scores were determined by
+continue to suffer recurrent strokes and transient ischemic              well-trained neurologists.
+attacks (TIAs) in posterior circulation despite aggressive
+medical therapy in the subacute and chronic period (1–3).
+Hypoperfusion without adequate collateral circulation is a               Radiological Assessment
+main mechanism for recurrent ischemic strokes and worsening              ICVA total occlusion was initially assessed by non-invasive
+symptoms, and it is highly likely that medical therapy                   computed tomography angiography (CTA) or magnetic
+will fail in these patients; rather, they will benefit from              resonance angiography (MRA) and then confirmed by digital
+revascularization (4, 5).                                                subtraction angiography (DSA). Total occlusion was defined as
+   Previous studies have been rare and are limited by small              grade 0 antegrade flow distal to the occlusion by thrombolysis
+sample sizes of patients with symptomatic atherosclerotic non-           in the cerebral infarction (TICI) grading system on DSA. High-
+acute ICVA total occlusion that was refractory to medical                resolution magnetic resonance imaging (HRMRI) was used to
+therapy (6–12). We aimed to assess the clinical features, imaging        analyze the occlusion etiology, occlusion course and luminal
+characteristics, endovascular treatment feasibility, and follow-up       thrombosis of these patients. Magnetic resonance imaging
+outcomes of these patients.                                              (MRI) and arterial spin labeling (ASL) were used to assess
+                                                                         multiple infarctions and regional hypoperfusion defects in the
+                                                                         ICVA territory, respectively. Posterior circulation acute stroke
+MATERIALS AND METHODS                                                    prognosis early CT scores (pc-ASPECTS) on diffusion-weighted
+                                                                         imaging (DWI), which were determined within 3 days before the
+Study Population                                                         procedure, were provided by well-trained neurologists.
+“Non-acute occlusion” was defined as symptomatic (TIA
+or stroke) complete occlusion of an intracranial artery of
+presumed atherosclerotic etiology in which endovascular                  Intervention Procedure
+therapy was performed more than 48 h from the time                       Dual antiplatelet treatment with 100 mg aspirin and 75 mg
+the patients was last seen well (6). We retrospectively                  clopidogrel daily was routinely maintained for at least 5
+reviewed our prospective stroke intervention database                    days before the procedure, and thromboelastography platelet
+to identify consecutive patients who had symptomatic                     mapping was performed to guide the modulation of antiplatelet
+atherosclerotic non-acute ICVA total occlusion and underwent             treatment. The details of the interventional procedure have
+endovascular recanalization from February 2016 to April                  been described previously (13, 14). The lesions were initially
+2020. The Institutional Review Board of the First Affiliated             predilated with conventional balloons (Gateway balloon, Boston
+Hospital of Shandong First Medical University approved                   Scientific, USA). Drug-coated balloon (DCB) (SeQuent Please, B.
+the study.                                                               Braun, Germany) have been applied after conventional balloon
+   The inclusion criteria were as follows: (1) intracranial              angioplasty to inhibit intimal hyperplasia and restenosis in later
+atherosclerosis was the primary etiology; (2) experienced                research (15, 16). When the residual stenosis was >50% and the
+recurrent TIAs or stroke (neurological deterioration, such as            antegrade perfusion was unstable, or there was vessel dissection
+deterioration of consciousness, hemiparesis, sensory disturbance,        after balloon angioplasty, remedial stenting implantation was
+ataxia, dizziness, vertigo, dysarthria, dysphagia, diplopia, etc.)       performed (Wingspan stent, Stryker Neurovascular, USA;
+related to occluded vertebral artery despite aggressive medical          Solitaire AB stent, Medtronic, United States; Apollo stent, Micro-
+treatment, which was defined as the treatment including dual-            port Neuro Tech, China, Xience Prime stent, Abbott Vascular,
+antiplatelet therapy, statin, blood pressure and glucose control,        United States) (17). Transcatheter aspiration was applied to
+smoking cessation and an emphasis on healthy lifestyle; (3) total        reduce the clot burden prior to angioplasty when the clot
+occlusion of dominant ICVA was confirmed by DSA; and (4)                 burden was high proximal to the occlusion segment. Intravenous
+hemodynamic failure and hypoperfusion in the ICVA territory              low dose tirofiban injection was administered when there were
+were confirmed based on the clinical and imaging evidence.               obvious clots at and around the occlusion lesions.
+   The exclusion criteria were as follows: (1) non-atherosclerotic          Post-procedural antegrade flow was graded using the TICI
+occlusion, such as vasculitis, arterial dissection, or embolic           grading system, and technical success was determined by
+disease; (2) clinical symptoms were stable with aggressive               recanalization with a TICI grade ≥2b on post-procedural
+medical treatment; (3) contraindications to operation, such as           angiography. Procedure complications included perforating
+known allergy or contraindication to aspirin, clopidogrel, or            branch occlusion, embolization, hyperperfusion syndrome,
+anesthesia; and (4) life expectancy<1 year because of other              intracranial hemorrhage (ICH), subarachnoid hemorrhage,
+medical conditions.                                                      vessel perforation and dissection.
+
+
+Frontiers in Neurology | www.frontiersin.org                         2                                November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                           Intracranial Vertebral Artery Total Occlusion
+
+
+
+TABLE 1 | Baseline clinical variables.
+
+Baseline clinical variables                                             N = 31 (%)
+
+Age(years), mean (SD)                                                    58.9 ± 8.5
+Male                                                                      27 (87.1)
+Hypertension                                                              29 (93.5)
+Diabetes mellitus                                                         14 (45.2)
+Coronary artery disease                                                   11 (35.5)
+Previous history of stroke                                                8 (25.8)
+Hyperlipidemia                                                             2 (6.5)
+Atrial fibrillation                                                        2 (6.5)
+Smoking                                                                   22 (71.0)
+Pre-treatment NIHSS, median (IQR)                                          4 (2–7)
+Pre-treatment mRS, median (IQR)                                            3 (2–4)
+Pre-treatment pc-ASPECTS on DWI, median (IQR)                              6 (5–7)
+
+NIHSS, National Institutes of Health Stroke Scale; mRS, modified Rankin scale; pc-
+ASPECTS, posterior circulation acute stroke prognosis early CT score; DWI, diffusion-
+weighted imaging; SD, standard deviation; IQR, interquartile range.
+
+
+Follow-up Outcomes
+All patients were discharged on dual antiplatelets, consisting of
+aspirin and clopidogrel, and were required to remain on the
+dual antiplatelet regimen for 3 months for angioplasty and 6
+months for stenting, after which they continued with one of the
+two drugs. Patients were also treated with statins and other risk
+factor controls.
+    These patients were followed up clinically at 1 month, and
+all the patients were followed up clinically in May 2020. They
+were scheduled for DSA at 3–6 months. Favorable functional
+outcome was defined as an mRS score 0–2. Restenosis was defined
+as a diameter of the stenosis >50% of the target artery segment.
+Symptomatic restenosis was defined as restenosis associated with
+                                                                                             FIGURE 1 | Angiographic features and collateral circulation. Illustrative patient
+ischemic symptoms of the treated vessel territory.
+                                                                                             18 (A–D): asymmetric vertebral arteries (VA) due to unilateral hypoplasia, the
+                                                                                             dominant intracranial vertebral artery (ICVA) was totally occluded (A), the blood
+Statistical Analysis                                                                         flow of the contralateral hypoplastic VA was tenuous, and ended in the
+Continuous data are expressed as the mean ± standard deviation                               posterior inferior cerebellar artery (PICA) (B); the collateral flow from posterior
+                                                                                             and anterior leptomeningeal anastomosis was limited at late arterial phases
+(SD) or as the median with the interquartile range (IQR).
+                                                                                             [(C,D), the arrow indicates the top of the basilar artery]. Illustrative patient 1(E):
+Categorical data are expressed as numbers and percentages.                                   the arrow indicates a tiny posterior communicating artery (PComA). Illustrative
+Statistical analysis was performed using SPSS version 19.0 for                               patient 19 (F): the arrow indicates upward retrograde flow through the anterior
+Windows (SPSS Inc., Chicago, IL, United States).                                             spinal artery (ASA).
+
+
+
+RESULTS                                                                                     headache, hearing loss, and so on. Lifestyle-limiting symptoms
+Clinical Features                                                                           that were exacerbated by activity or decreases in blood pressure,
+Thirty-one patients, predominantly males (27/31, 87.1%), were                               such as aggravated dizziness and vertigo, blurred vision, ataxia,
+enrolled in this study (Supplementary Table 1). Baseline clinical                           and headache after standing or walking, were prominent in
+characteristics are listed in Table 1. The mean age of the patients                         these patients.
+was 58.9 ± 8.5 years. The most common risk factors were                                        The pretreatment median mRS and NIHSS scores at baseline
+hypertension (29/31, 93.5%), smoking (22/31, 71.0%), diabetes                               were 3 (IQR, 2–4) and 4 (IQR, 2–7), respectively. A total of 61.3%
+mellitus (14/31, 45.2%), coronary artery disease (11/31, 35.5%)                             (19/31) of these patients had low NIHSS scores (<6), whereas
+and previous history of stroke (8/31, 25.8%).                                               these patients also had poor quality of life because of serious
+   All these patients were treated with aggressive medical                                  vertigo, dysphagia, diplopia, or ataxia.
+therapy since presentation and still experienced recurrent
+and progressive strokes in the posterior circulation. Common                                Imaging Characteristics
+symptoms included dizziness and vertigo, dysarthria, dysphagia,                             Angiographic analysis revealed that the vertebral arteries (VA) of
+diplopia, blurred vision, ataxia, hemiparesis, sensory disturbance,                         all these patients were asymmetric due to unilateral hypoplasia,
+
+
+Frontiers in Neurology | www.frontiersin.org                                            3                                          November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                      Intracranial Vertebral Artery Total Occlusion
+
+
+
+
+ FIGURE 2 | Illustration of multiple infarctions and perfusion defects in the posterior circulation (patient 8), which were detected by diffusion-weighted imaging (DWI)
+ (A–C) and arterial spin labeling (ASL) (D–F), respectively. The Scale for ASL [image (D–F)] was color coded (red, largest cerebral blood flow; blue, least cerebral blood
+ flow). ASL images showed larger perfusion deficits including the brain stem, cerebellum, and occipital lobe.
+
+
+
+
+ FIGURE 3 | Illustrative patient 20. (A) A lot of clots (arrowhead) proximal to the occlusion segment (arrow). (B) Angiographic result after transcatheter aspiration. (C)
+ Favorable antegrade flow was obtained after conventional balloon and drug-coated balloon (DCB) angioplasty.
+
+
+
+
+and ICVA total occlusions occurred in the dominant VA                                    the skull, 6.5% (2/31) of the contralateral hypoplastic VA had
+(Figure 1). The blood flow of the contralateral hypoplastic VA                           multiple serious stenoses, and 12.9% (4/31) of the contralateral
+was tenuous, as 71.0% (22/31) of the contralateral hypoplastic                           hypoplastic VA had whole-course extreme hypoplasia.
+VA ended in the posterior inferior cerebellar artery (PICA), 9.7%                           MRI revealed multiple infarcts in the cerebellum, medulla
+(3/31) of the contralateral hypoplastic VA ended before entering                         oblongata, pontine, midbrain, thalamus, splenium of the corpus
+
+
+
+Frontiers in Neurology | www.frontiersin.org                                         4                                         November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                      Intracranial Vertebral Artery Total Occlusion
+
+
+
+
+ FIGURE 4 | Illustrative patient 14: (A) Total occlusion (arrow) of the ICVA with obvious clots at and proximal to the occlusion segment (arrowhead) on digital
+ subtraction angiography (DSA). (B,C) Clots with high signal intensity (arrow) on pre-contrast T1-weighted high-resolution magnetic resonance imaging (HRMRI). (D)
+ Angiographic result after conventional balloon angioplasty. There were obvious clots (arrow). (E) Angiographic results after stenting demonstrated favorable antegrade
+ flow, despite persistent clots (arrow). (F) The patient was treated with intravenous low-dose tirofiban injection and dual antiplatelets for 7 days. DSA 7 days later
+ showed good antegrade flow with interval reduction in clot burden (the arrow indicates the residual clots). (G) Then, the patient was treated with dual antiplatelets after
+ discharge. DSA 5 months later showed that the antegrade flow was good, without restenosis or obvious clots.
+
+
+
+
+callosum, and temporal and occipital lobes in the ICVA territory.                        days), and the median time from image-documented ICVA total
+Pre-treatment pc-ASPECTS on DWI was 6 (IQR, 5–7).                                        occlusion to endovascular treatment was 14.0 days (IQR, 7.0–
+    A total of 25.8% (8/31) of the patients had a posterior                              29.5 days).
+communicating artery (PComA), 38.7% (12/31) of the patients                                  Transcatheter aspiration prior to angioplasty was able to
+had upward retrograde flow through the anterior spinal artery                            effectively reduce the clot burden proximal to the occlusion
+(ASA), and 6.5% (2/31) of the patients had PComA and upward                              segment (Figure 3). Favorable antegrade flow was achieved after
+retrograde flow through the ASA. However, the PComA was                                  angioplasty and stenting despite obvious clots at and proximal to
+tiny in these patients, and the collateral blood flow of these                           the occlusion segment (Figures 3, 4).
+patients through PComA, ASA, and leptomeningeal anastomosis                                  Successful recanalization was achieved in 87.1% (27/31) of
+was tenuous and limited (Figure 1). The American Society                                 the patients, with TICI 3 reperfusion in 25 cases (80.6%, 25/31)
+of Interventional and Therapeutic Neuroradiology/Society of                              and TICI 2b reperfusion in 2 cases (6.5%, 2/31). The treatment
+Interventional Radiology Collateral Flow Grading System score                            modalities and outcomes of the patients are summarized in
+of all these patients was <3 on DSA. Relatively small and multiple                       Table 2. DCBs were used in 15 cases after conventional balloon
+infarctions on DWI with a large area of low perfusion assessed by                        dilatation to inhibit intimal hyperplasia. A total of 44.4% (12/27)
+ASL demonstrated hypoperfusion defects in the ICVA territory                             of the patients had a long lesion length and underwent stenting
+of these patients (Figure 2).                                                            with a stent ≥20 mm in length. One patient was treated with two
+    Obvious clots occurred in 41.9% (13/31) of the patients at                           Wingspan stents (4 ∗ 15 mm, 4.5 ∗ 20 mm) because of the long
+or around the ICVA occlusion lesions, which was detected by                              lesion length, and the other 11 patients were treated with one
+DSA and HRMRI. The clots were divided into three categories                              stent that was ≥20 mm in length (one patient was treated with
+according to the location: occlusion segment, distal to the                              a Xience Prime stent that was 28 mm in length, three patients
+occlusion segment, and proximal to the occlusion segment                                 were treated with a Xience Prime stent that was 23 mm in length,
+(Figures 3–5).                                                                           six patients were treated with a Wingspan stent that was 20 mm
+                                                                                         in length, and one patient was treated with a Solitaire AB stent
+Endovascular Treatment                                                                   that was 20 mm in length). The median residual stenosis after the
+The endovascular procedure was applied for the dominant ICVA                             procedure was 15.0% (IQR, 10.0–25.0%).
+total occlusion of these patients. The median time from symptom                              The procedure failed in four patients because the guidewire
+onset to endovascular treatment was 23.0 days (IQR, 15.0–53.5                            could not traverse the occluded segment. Six patients experienced
+
+
+Frontiers in Neurology | www.frontiersin.org                                         5                                         November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                       Intracranial Vertebral Artery Total Occlusion
+
+
+
+
+ FIGURE 5 | Illustrative patient 30. (A) Total occlusion of the intracranial vertebral artery (ICVA) (arrow). (B) Microcatheter angiography (the arrow indicates the position
+ of the microcatheter) showed a relatively short occlusion segment and obvious filling defects distal to the occlusion segment (arrowhead). The filling defects were clots
+ distal to the occlusion segment. (C,D) Clots with high signal intensity distal to the occlusion segment on pre-contrast T1-weighted high-resolution magnetic
+ resonance imaging (HRMRI) (arrow). (E) Angiographic results after conventional balloon and drug-coated balloon angioplasty demonstrated migration of the clots to
+ the distal segment of the basilar artery. Distal antegrade flow could not be seen (arrow). (F) Favorable antegrade flow was obtained after emergency transcatheter
+ aspiration. (G) Angiography 3 months later demonstrated favorable antegrade flow without restenosis.
+
+
+
+
+procedural related complications, of whom only three patients                             outcome (mRS score≤2), and 85.2% (23/27) of the patients
+were symptomatic. Perforating branch occlusion occurred in two                            achieved an acceptable clinical outcome (mRS score≤3). Over a
+patients, and symptomatic dissection occurred in one patient.                             median clinical follow-up duration of 11.0 months, 74.1% (20/27)
+The three patients had new infarcts in posterior circulation after                        of the patients achieved a favorable clinical outcome (mRS score
+the procedure, and their mRS scores were 1, 3, and 3 at the last                          ≤2), and 88.9% (24/27) of the patients achieved an acceptable
+follow-up, respectively.                                                                  clinical outcome (mRS score ≤3) at the last follow-up. There was
+    Asymptomatic ICH occurred in one patient after the                                    one death due to multiple organ failure.
+procedure. Hemorrhage was detected in the previous occipital                                 During the 5.5 ± 2.6 months vessel imaging follow-up
+lobe infarction, which may have resulted from hyperperfusion                              period, DSA was obtained for 18 patients, and CTA was
+after recanalization. Asymptomatic embolization occurred in                               obtained for 2 patients. Angiographic follow-up demonstrated
+two patients who had clots distal to the occlusion lesions,                               continuous clot dissolution in these patients after successful
+and neither of them exhibited new clinical manifestations with                            endovascular recanalization (Figure 4). Restenosis occurred in
+emergency mechanical thrombectomy (MT) (Figure 5). Other                                  10% (2/20) of patients who had follow-up imaging: one presented
+periprocedural complications, such as subarachnoid hemorrhage                             with angiographic asymptomatic restenosis; whereas the other
+or perforation, did not occur in this case series.                                        presented with symptomatic reocclusion 7.5 months after the
+                                                                                          procedure, and this patient was neurologically independent with
+Clinical and Angiographic Follow-up Data                                                  emergency MT and stenting, the mRS of this patient was 0 before
+The clinical and angiographic follow-up outcomes of successfully                          discharge. No recurrent stroke occurred in other patients with
+treated patients are presented in Table 3. The lifestyle-limiting                         successful recanalization during the clinical follow-up period.
+symptoms improved quickly within several days in the patients
+with successful recanalization. Unexpectedly, the symptom of                              DISCUSSION
+hearing loss also improved quickly within several days after the
+procedure. The symptom improvement rate after the procedure                               In our study, patients with symptomatic atherosclerotic non-
+was 85.2% (23/27) for these patients. At the first 30-day clinical                        acute ICVA total occlusion were treated with aggressive medical
+follow-up, there were no recurrent cerebral ischemic events;                              therapy since presentation, but they were still hemodynamically
+66.7% (18/27) of the patients achieved a favorable clinical                               unstable and experienced recurrent and progressive ischemic
+
+
+Frontiers in Neurology | www.frontiersin.org                                          6                                        November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                       Intracranial Vertebral Artery Total Occlusion
+
+
+
+TABLE 2 | Procedural characteristics.                                                              because of serious vertigo, dysphagia, diplopia, or ataxia, so we
+                                                                                                   did not stratify the patients by NIHSS score. Pc-ASPECTS on
+Variables                                                                  N = 31 (%)
+                                                                                                   DWI is helpful in predicting functional outcome in posterior
+Symptom onset to treatment (days), median (IQR)                         23.0 (15.0–53.5)           circulation ischemic stroke (18), and the low pretreatment
+Image-documented occlusion to treatment (days), median (IQR) 14.0 (7.0–29.5)                       median pc-ASPECTS (6, IQR, 5–7) on DWI indicated a poor
+Technical success                                                           27 (87.1)              prognosis for these patients.
+Modality of recanalization
+                                                                                                       The collateral flow from PComA, ASA and leptomeningeal
+CBA                                                                           3 (9.7)
+                                                                                                   anastomosis was limited and failed to provide sufficient blood
+CBA+stenting                                                                 9 (29.0)
+                                                                                                   flow and perfusion. We speculate that serious hypoperfusion
+CBA+DCBA                                                                     8 (25.8)
+                                                                                                   without adequate collateral circulation was the main mechanism
+                                                                                                   for medical therapy failure and recurrent ischemic events in
+CBA+DCBA+stenting                                                            7 (22.6)
+                                                                                                   these patients. The mechanism of artery-to-artery embolism
+Post-procedural perfusion
+                                                                                                   based on hypoperfusion may also contribute to recurrent and
+TICI 3                                                                      25 (80.6)
+                                                                                                   progressive stroke in these patients (19). The ICVA occlusions
+TICI 2b                                                                       2 (6.5)
+                                                                                                   caused hypoperfusion, and the resulting sluggish blood flow
+TICI 0                                                                      4 (12.9%)
+                                                                                                   promoted the formation of clots that formed emboli. Obvious
+Residual stenosis, median (IQR)                                        15.0% (10.0–25.0)
+                                                                                                   clots occurred in 41.9% (13/31) of these patients at and around
+Complication rate                                                            6 (19.4)
+                                                                                                   the ICVA occlusion lesions in this study. Hypoperfusion and
+Perforating branch occlusion                                                  2 (6.5)
+                                                                                                   related changes in the dynamics of blood flow in the cerebral
+Embolization                                                                  2 (6.5)
+                                                                                                   arteries also prevented the clearing of distal emboli.
+Dissection                                                                    1 (3.2)
+                                                                                                       The management of these patients is a medical dilemma.
+Asymptomatic ICH                                                              1 (3.2)
+                                                                                                   Patients who have hemodynamic compromise and comparatively
+Symptomatic complication rate                                                 3 (9.7)
+                                                                                                   slow infarct growth are highly likely to benefit from
+Perforating branch occlusion                                                  2 (6.5)              delayed recanalization. We demonstrated that endovascular
+Dissection                                                                    1 (3.2)              recanalization appeared to be feasible for symptomatic
+CBA, conventional balloon angioplasty; DCBA, drug-coated balloon angioplasty; TICI,                atherosclerotic non-acute ICVA total occlusion attributable
+thrombolysis in cerebral infarction; ICH, intracranial hemorrhage; IQR, interquartile range.       to hypoperfusion in this study. Based on our single-arm study
+                                                                                                   results, we are not able to draw conclusions about the efficacy
+                                                                                                   of delayed endovascular recanalization for these patients.
+TABLE 3 | Clinical and angiographic outcomes of successfully treated patients.                     However, all these patients presented with recurrent and
+Variables                                           N = 27 %               Median (IQR)
+                                                                                                   progressive stroke despite aggressive medical therapy before the
+                                                                                                   procedure, and it is encouraging to see that the hypoperfusion
+Follow-up time(months)                                                     11.0(5.0–26.5)          related lifestyle-limiting symptoms improved quickly within
+Symptom improved post-procedure                     23 (85.2)                                      several days after the procedure in patients with successful
+30-day mRS score ≤2                                 18 (66.7)                                      recanalization. Over a median clinical follow-up duration of 11.0
+30-day mRS score ≤3                                 23 (85.2)                                      months for the patients with successful recanalization, 74.1%
+mRS score at last follow-up ≤2                      20 (74.1)                                      (20/27) of these patients achieved a favorable clinical outcome
+mRS score at last follow-up ≤3                      24 (88.9)                                      (mRS score ≤2), and 88.9% (24/27) of these patients achieved
+Ischemic event during follow-up                       1 (3.2)                                      an acceptable clinical outcome (mRS score ≤3). Except for one
+Death                                                 1 (3.2)                                      patient suffering symptomatic reocclusion 7.5 months after the
+Restenosis on follow-up image                      10% (2/20)                                      procedure, there was no recurrent stroke during the clinical
+                                                                                                   follow-up period in other patients with successful recanalization.
+mRS, modified Rankin scale; IQR, interquartile range.
+                                                                                                       Although the symptomatic complication rate in this study
+                                                                                                   was not very high (9.7%, 3/31), it should be emphasized that
+                                                                                                   endovascular recanalization for non-acute ICVA occlusion is a
+events despite aggressive medical therapy. Therefore, they were                                    high-risk procedure. Together failed procedure and symptomatic
+transferred to our comprehensive stroke center for further                                         complication was 22.5% of patients, and all complications and
+treatment. These patients had asymmetric VA due to unilateral                                      failed procedures occurred in 32.3% of patients. Symptomatic
+hypoplasia, and ICVA total occlusions occurred in the dominant                                     atherosclerotic non-acute ICVA occlusion features a long lesion
+VA. The blood flow of the contralateral hypoplastic VA was                                         length (44.4%,12/27) and high clot burden (41.9%, 13/31),
+tenuous, and most of them ended in the PICA. This condition                                        which makes the endovascular recanalization procedure more
+exposed these patients to the risk of a catastrophic stroke in the                                 challenging in these patients than in patients who with non-
+basilar artery territory.                                                                          acute middle cerebral artery occlusion or non-acute basilar
+   Limitations of NIHSS include a focus on limb and speech                                         artery (BA) occlusion (13, 14). The management of clots based
+impairments and less emphasis on cranial nerve lesions. Patients                                   on ICVA occlusion lesions was critical during the procedure.
+with symptomatic ICVA total occlusions may have low NIHSS                                          Transcatheter aspiration prior to angioplasty can effectively
+scores, whereas the mRS scores of these patients can be high                                       reduce the clot burden proximal to the occlusion segment, and
+
+
+Frontiers in Neurology | www.frontiersin.org                                                   7                                November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                  Intracranial Vertebral Artery Total Occlusion
+
+
+
+this is a potential treatment to obtain better reperfusion and                           DATA AVAILABILITY STATEMENT
+improve the prognosis. Angiographic follow-up demonstrated
+that continuous clot dissolution was achieved after successful                           The original contributions presented in the study are included
+recanalization in these patients. Embolization risk is very high                         in the article/supplementary materials, further inquiries can be
+and difficult to prevent in patients with clots distal to the                            directed to the corresponding author.
+occlusion segments. The clots breaking up and embolizing the
+distal segment of BA can cause life threatening complications.                           ETHICS STATEMENT
+HRMRI is helpful in the diagnosis of ICVA occlusion and luminal
+thrombosis (20) and can help us to identify the subset of patients                       The studies involving human participants were reviewed
+with high embolism risk before the procedure. At present,                                and approved by Institutional Review Board of the First
+there is no embolic protection device to reduce embolization                             Affiliated Hospital of Shandong First Medical University. The
+complications. The intervention procedure must be cautiously                             patients/participants provided their written informed consent to
+performed by experienced interventionalists, and emergency                               participate in this study.
+MT is critical for patients suffering embolization complications.
+The selection of eligible patients and the correct treatment for                         AUTHOR CONTRIBUTIONS
+complications are equally critical.
+   There are several limitations of our study. First, this study                         WZ contributed to the design of the study, acquisition, analysis
+is a single-center study; thus, selection bias may be possible.                          and interpretation of the data, drafting of the article and
+Other main limitations are its retrospective nature and a lack                           revision of the content, and final approval of the paper.
+of a control arm. Prospective randomized controlled trials                               JuZ, YM, and YZ contributed to the analysis of the data
+are needed to investigate whether endovascular recanalization                            and the revision of content and the final approval of the
+compares favorably with aggressive medical management in                                 article. JiZ, YS, LS, and MZ contributed to the analysis of
+these patients.                                                                          the data and the final approval of the article. WW and HY
+                                                                                         contributed to the statistical analysis and the final approval
+                                                                                         of the article. JH contributed to the conception and design
+CONCLUSIONS                                                                              of the study, acquisition and analysis of the data, drafting of
+                                                                                         the article, revision of the content, and final approval of the
+Patients with symptomatic atherosclerotic non-acute ICVA total                           article. All authors contributed to the article and approved the
+occlusion presented with recurrent and progressive ischemic                              submitted version.
+events despite aggressive medical therapy. These patients
+had asymmetric VA due to unilateral hypoplasia, and ICVA                                 FUNDING
+total occlusions occurred in the dominant VA. The dominant
+ICVA total occlusion was characterized by long lesion length                             This study was supported by a grant from the Science and
+and high clot burden. These patients had relatively small                                Technology Program of Jinan, China (201907050).
+multiple infarctions and large perfusion defects in the posterior
+circulation. Hypoperfusion without adequate circulation
+                                                                                         SUPPLEMENTARY MATERIAL
+played a critical role in the recurrent ischemic events and
+lifestyle-limiting symptoms in these patients and endovascular                           The Supplementary Material for this article can be found
+recanalization appeared to be a technically feasible treatment for                       online at: https://www.frontiersin.org/articles/10.3389/fneur.
+these patients.                                                                          2020.598795/full#supplementary-material
+
+
+
+REFERENCES                                                                               5. Amin-Hanjani S, Pandey DK, Rose-Finnell L, Du X, Richardson D,
+                                                                                            Thulborn KR, et al. Effect of hemodynamics on stroke risk in symptomatic
+ 1. Caplan LR. The intracranial vertebral artery: a neglected species. The                  atherosclerotic vertebrobasilar occlusive disease. JAMA Neurol. (2016)
+    Johann Jacob Wepfer Award 2012. Cerebrovasc Dis. (2012) 34:20–30.                       73:178–85. doi: 10.1001/jamaneurol.2015.3772
+    doi: 10.1159/000339629                                                               6. Aghaebrahim A, Jovin T, Jadhav AP, Noorian A, Gupta R, Nogueira RG.
+ 2. Gorelick PB, Wong KS, Bae HJ, Pandey DK. Large artery intracranial occlusive            Endovascular recanalization of complete subacute to chronic atherosclerotic
+    disease: a large worldwide burden but a relatively neglected frontier. Stroke.          occlusions of intracranial arteries. J Neurointervent Surg. (2014) 6:645–8.
+    (2008) 39:2396–9. doi: 10.1161/strokeaha.107.505776                                     doi: 10.1136/neurintsurg-2013-010842
+ 3. Wang Y, Zhao X, Liu L, Soo YO, Pu Y, Pan Y, et al. Prevalence and outcomes           7. He Y, Bai W, Li T, Xue J, Wang Z, Zhu L, et al. Perioperative complications
+    of symptomatic intracranial large artery stenoses and occlusions in China: the          of recanalization and stenting for symptomatic nonacute vertebrobasilar
+    Chinese Intracranial atherosclerosis (CICAS) study. Stroke. (2014) 45:663–9.            artery occlusion. Ann Vascu Surg. (2014) 28:386–93. doi: 10.1016/j.avsg.201
+    doi: 10.1161/strokeaha.113.003508                                                       3.03.014
+ 4. Yamauchi H, Higashi T, Kagawa S, Kishibe Y, Takahashi M. Chronic                     8. Lin R, Aleu A, Jankowitz B, Kostov D, Kanaan H, Horowitz
+    hemodynamic compromise and cerebral ischemic events in asymptomatic or                  M, et al. Endovascular revascularization of chronic symptomatic
+    remote symptomatic large-artery intracranial occlusive disease. AJNR Am J               vertebrobasilar     occlusion.    J    Neuroimaging.     (2012)    22:74–9.
+    Neuroradiol. (2013) 34:1704–10. doi: 10.3174/ajnr.A3491                                 doi: 10.1111/j.1552-6569.2010.00554.x
+
+
+
+
+Frontiers in Neurology | www.frontiersin.org                                         8                                     November 2020 | Volume 11 | Article 598795
+Zhao et al.                                                                                                                        Intracranial Vertebral Artery Total Occlusion
+
+
+
+ 9. Liu XC, Chen C, Shi MC, Wang SC. Revascularization of vertebrobasilar                 16. Zhang J, Zhang X, Zhang JP, Han J. Endovascular recanalisation
+    artery occlusion at the chronic stage. Neurosciences. (2013)                              with drug coated balloon for chronic symptomatic middle cerebral
+    18:269-72.                                                                                artery total occlusion. J Neurointervent Surg. (2018) 10 9:e24.
+10. Ogilvy CS, Khalessi AA, Hauck EF, Shannon LR II, Hopkins LN,                              doi: 10.1136/neurintsurg-2017-013693.rep
+    Levy EI, et al. Delayed endovascular revascularization in a patient with              17. Zhang J, Zhang X, Zhang J, Song Y, Zheng M, Sun L, et al. Drug-
+    progressive neurological deterioration from bilateral intracranial vertebral              coated balloon dilation compared with conventional stenting angioplasty
+    artery occlusions: case report. Neurosurgery. (2011) 69:E251–6; discussion E6.            for intracranial atherosclerotic disease. Neurosurgery. (2020) 87:992–8.
+    doi: 10.1227/NEU.0b013e3182186811                                                         doi: 10.1093/neuros/nyaa191
+11. Xu Z, Ma N, Mo D, Wong EH, Gao F, Jiao L, et al. Endovascular                         18. Lin SF, Chen CI, Hu HH, Bai CH. Predicting functional outcomes of posterior
+    recanalization for chronic symptomatic intracranial vertebral artery total                circulation acute ischemic stroke in first 36 h of stroke onset. J Neurol. (2018)
+    occlusion. Minim Invasive Surg. (2014) 2014:949585. doi: 10.1155/2014/9                   265:926–32. doi: 10.1007/s00415-018-8746-6
+    49585                                                                                 19. Caplan LR, Wong KS, Gao S, Hennerici MG. Is hypoperfusion an
+12. Gao P, Wang Y, Ma Y, Yang Q, Song H, Chen Y, et al. Endovascular                          important cause of strokes? If so, how? Cerebrovasc Dis. (2006) 21:145–53.
+    recanalization for chronic symptomatic intracranial vertebral artery                      doi: 10.1159/000090791
+    total occlusion: experience of a single center and review of literature.              20. Al-Smadi AS, Abdalla RN. Diagnostic accuracy of high-resolution black-blood
+    J    Neuroradiol.     (2018)     45:295–304. doi:       10.1016/j.neurad.2017.            mri in the evaluation of intracranial large-vessel arterial occlusions. Am J
+    12.023                                                                                    Neuroradiol. (2019) 40:954–9. doi: 10.3174/ajnr.A6065
+13. Zhao W, Zhang J, Song Y, Sun L, Zheng M, Yin H, et al. Endovascular
+    recanalization for symptomatic subacute to chronic atherosclerotic basilar            Conflict of Interest: The authors declare that the research was conducted in the
+    artery occlusion. Front Neurol. (2019) 10:1290. doi: 10.3389/fneur.2019.              absence of any commercial or financial relationships that could be construed as a
+    0129                                                                                  potential conflict of interest.
+14. Zheng M, Song Y, Zhang J, Zhao W, Sun L, Yin H, et al. Endovascular
+    recanalization of non-acute symptomatic middle cerebral artery total                  Copyright © 2020 Zhao, Zhang, Meng, Zhang, Zhang, Song, Sun, Zheng, Wang, Yin
+    occlusion and its short-term outcomes. Front Neurol. (2019) 10:484.                   and Han. This is an open-access article distributed under the terms of the Creative
+    doi: 10.3389/fneur.2019.00484                                                         Commons Attribution License (CC BY). The use, distribution or reproduction in
+15. Han J, Zhang J, Zhang X, Zhang J, Song Y, Zhao W, et al. Drug-coated                  other forums is permitted, provided the original author(s) and the copyright owner(s)
+    balloons for the treatment of symptomatic intracranial atherosclerosis: initial       are credited and that the original publication in this journal is cited, in accordance
+    experience and follow-up outcome. J Neurointervent Surg. (2019) 11:569–73.            with accepted academic practice. No use, distribution or reproduction is permitted
+    doi: 10.1136/neurintsurg-2018-014237                                                  which does not comply with these terms.
+
+
+
+
+Frontiers in Neurology | www.frontiersin.org                                          9                                         November 2020 | Volume 11 | Article 598795
+

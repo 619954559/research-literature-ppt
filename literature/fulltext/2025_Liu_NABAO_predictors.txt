@@ -1,0 +1,625 @@
+                                                                                                                      TYPE Original Research
+                                                                                                                      PUBLISHED 07 April 2025
+                                                                                                                      DOI 10.3389/fneur.2025.1496852
+
+
+
+
+                                                 Predictors of successful
+OPEN ACCESS                                      recanalization following
+                                                 endovascular intervention in
+EDITED BY
+Robin Lemmens,
+University Hospitals Leuven, Belgium
+
+REVIEWED BY
+Ting-yu Yi,
+                                                 non-acute basilar artery
+Zhangzhou Affiliated Hospital of Fujian
+Medical University, China
+Laura Harris,
+                                                 occlusion
+Davenport University, United States
+
+*CORRESPONDENCE                                  Ying Liu 1†, Zuoli Wu 2,3†, Shengwei Wei 2†, Wenbo He 2, Weihao Ye 2,
+Wen Gao                                          Shang Xu 2, Baozi Huang 2, Chao Qin 2, Wen Gao 4* and
+  gaowen0602@163.com
+Ziming Ye                                        Ziming Ye 2*
+  yeziming1620@163.com
+                                                 1
+                                                  Department of Rehabilitation Medicine, The Second Affiliated Hospital of Guangxi Medical University,
+†
+ These authors have contributed equally to       Nanning, China, 2 Department of Neurology, The First Affiliated Hospital of Guangxi Medical University,
+this work                                        Nanning, China, 3 Jiangbing Hospital, Guangxi Zhuang Autonomous Region, Nanning, Guangxi, China,
+RECEIVED 15 September 2024
+                                                 4
+                                                   Department of Neurology, Liuzhou People's Hospital Affiliated to Guangxi Medical University,
+ACCEPTED 18 March 2025                           Liuzhou, Guangxi, China
+PUBLISHED 07 April 2025
+
+CITATION
+Liu Y, Wu Z, Wei S, He W, Ye W, Xu S, Huang B,
+Qin C, Gao W and Ye Z (2025) Predictors of       Objective: This study aims to identify factors influencing successful
+successful recanalization following              recanalization following endovascular intervention for non-acute basilar artery
+endovascular intervention in non-acute
+basilar artery occlusion.                        occlusion (NABAO).
+Front. Neurol. 16:1496852.                       Background: Endovascular treatment (EVT) is a feasible approach for treating
+doi: 10.3389/fneur.2025.1496852
+                                                 non-acute basilar artery occlusion, but it presents significant technical
+COPYRIGHT
+                                                 challenges due to the lack of standardized treatment protocols. Therefore,
+© 2025 Liu, Wu, Wei, He, Ye, Xu, Huang, Qin,
+Gao and Ye. This is an open-access article       identifying patients most likely to benefit is critical to minimizing procedural
+distributed under the terms of the Creative      risks.
+Commons Attribution License (CC BY). The
+use, distribution or reproduction in other       Methods: A retrospective analysis was conducted on 115 patients with NABAO
+forums is permitted, provided the original       treated via EVT. Factors associated with successful recanalization, including
+author(s) and the copyright owner(s) are
+                                                 clinical symptoms, demographic characteristics, procedural outcomes, and
+credited and that the original publication in
+this journal is cited, in accordance with        imaging findings, were analyzed using multivariate analysis. A scoring system
+accepted academic practice. No use,              was developed based on independent predictors.
+distribution or reproduction is permitted
+which does not comply with these terms.          Results: Successful recanalization (defined as modified Thrombolysis in Cerebral
+                                                 Infarction [mTICI] ≥2b) was achieved in 81.7% (94/115) of cases. Multivariate
+                                                 analysis revealed that occlusion duration >3 months (odds ratio [OR]: 0.187,
+                                                 95% confidence interval [CI]: 0.051–0.688, p = 0.012), blunt-shaped occlusion
+                                                 ends (OR: 0.236, 95% CI: 0.072–0.777, p = 0.018), occlusion length > 30 mm
+                                                 (OR: 0.144, 95% CI: 0.031–0.669, p = 0.013), and insufficient or absent distal
+                                                 compensation (OR: 0.25, 95% CI: 0.075–0.835, p = 0.024) were independent
+                                                 predictors of reduced technical success. The receiver operating characteristic
+                                                 (ROC) curve index for the scoring system, based on these independent
+                                                 predictors, was 0.817 (95% CI: 0.698–0.936, p < 0.001), with a sensitivity of
+                                                 71.4% and a specificity of 85.4% at a cutoff of 2.5 points.
+                                                 Conclusion: Longer occlusion duration (>3 months), blunt-shaped occlusion
+                                                 ends, occlusion length > 30 mm, and insufficient distal collateral compensation
+                                                 are independent negative predictors for successful recanalization in patients
+                                                 with NABAO treated via EVT. The proposed scoring system can help screen
+                                                 patients suitable for treatment and optimize treatment strategies, but further
+                                                 validation in prospective cohorts is needed.
+
+
+
+
+Frontiers in Neurology                                                 01                                                                frontiersin.org
+Liu et al.                                                                                                                    10.3389/fneur.2025.1496852
+
+
+
+
+                                                    KEYWORDS
+
+                                                    non-acute basilar artery occlusion, endovascular intervention, recanalization,
+                                                    predictors, occlusion length, collateral compensation
+
+
+
+
+1 Introduction                                                                    2 Methods
+     Stroke remains a leading cause of disability and mortality                       We conducted a retrospective, multi-center study of NABAO
+worldwide, with acute ischemic stroke (AIS) accounting for nearly                 recanalization treatment from January 2019 to February 2024. Basilar
+80% of all cases (1–3). Early intervention to restore blood flow and              artery occlusion was evaluated using computed tomography
+salvage the ischemic penumbra is critical for improving outcomes in               angiography (CTA) and confirmed by digital subtraction angiography
+AIS (4, 5). The current gold-standard treatments for early                        (DSA). Non-acute basilar artery occlusion was defined as occlusion
+recanalization include intravenous tissue plasminogen activator                   diagnosed more than 24 h after symptom onset (14). All patients
+(rt-PA) thrombolysis and mechanical thrombectomy (6, 7). However,                 underwent endovascular intervention following the signing of
+the narrow therapeutic time window limits the number of patients                  informed surgical consent.
+who are eligible for these interventions, leaving a substantial
+proportion untreated (8).
+     The efficacy of endovascular treatment (EVT) in acute posterior              2.1 Inclusion criteria
+circulation large vessel occlusion has been well established. A recent
+meta-analysis revealed that for patients with acute vertebrobasilar                 (1) Age > 18 years.
+artery occlusion presenting moderate to severe symptoms, EVT                        (2) Duration of basilar artery occlusion >24 h.
+significantly increases the likelihood of achieving favorable functional            (3) Basilar artery occlusion confirmed by DSA.
+outcomes by approximately 2.5-fold and markedly reduces overall                     (4) Consent for endovascular recanalization provided by the
+disability and mortality rates (9). For adult patients with basilar artery              patient or their family members, following detailed explanation
+occlusion (BAO)-related acute ischemic stroke presenting within 24 h                    of the procedure and risks (14).
+from last known well, current guidelines recommend EVT combined
+with best medical therapy (BMT) over BMT alone, with this
+recommendation applies only to patients with a National Institutes of             2.2 Exclusion criteria
+Health Stroke Scale (NIHSS) score of 10 or higher (10). However, for
+patients with BAO who fall outside the recommended time window                      (1) Patients diagnosed with NABAO via DSA but who declined
+for intervention, no consensus exists regarding optimal treatment                       endovascular intervention, either personally or via
+strategies. Current international guidelines continue to recommend                      family members.
+antiplatelet therapy, statins, lifestyle modification, and aggressive               (2) Severe cardiac insufficiency or significantly impaired liver and
+management of vascular risk factors, yet clinical outcomes remain                       kidney function, rendering the patient unfit for surgery.
+suboptimal with these approaches (11, 12). Emerging evidence from                   (3) Patients with cachexia, untreated malignant tumors, or an
+single-center studies suggests that EVT for non-acute basilar artery                    expected life expectancy of less than 2 years.
+occlusion (NABAO) may be feasible, offering potential benefits in                   (4) Patients with non-atherosclerotic causes of occlusion,
+restoring perfusion and improving clinical prognosis (13).                              including arterial dissection, cardiogenic embolism,
+Nonetheless, the procedural risks remain high, and success rates are                    vasculitis, history of radiotherapy, or congenital vascular
+inconsistent, primarily due to heterogeneous occlusion characteristics                  malformations.
+(e.g., chronicity, morphology) and the absence of validated selection               (5) History of cerebral hemorrhage.
+criteria. Unlike Acute Basilar Artery Occlusion (ABAO), where                       (6) Patients with a high risk of bleeding or contraindications to
+thrombus composition and timing dominate decision-making,                               antiplatelet therapy.
+NABAO requires distinct predictors to balance procedural risks (e.g.,               (7) Recent gastrointestinal bleeding, major surgical procedures, or
+vessel dissection, hemorrhage) against potential benefits.                              fever within the past month that had not been effectively
+     Current literature on NABAO EVT is limited to small                                controlled.
+retrospective cohorts (14), with no consensus on which patients are                 (8) Patients with active sepsis where blood cultures remained
+optimal candidates. Key questions remain unanswered: How do                             positive (14).
+occlusion duration, morphology, and collateral status interact to
+influence recanalization success? Can a standardized scoring system
+guide clinicians in selecting patients most likely to benefit from EVT?           2.3 Interventional techniques
+     A major challenge of NABAO EVT lies in identifying patients
+who are most likely to benefit from EVT and who have a high                       2.3.1 Preoperative preparation
+likelihood of successful recanalization. This study presents a                        All patients were placed on dual antiplatelet therapy (DAPT) for
+retrospective analysis of NABAO treated with endovascular                         5 days before the procedure. This regimen included aspirin (100 mg
+recanalization, aiming to identify predictors of successful outcomes              daily) and clopidogrel (75 mg daily) (15). Additionally, patients
+and to develop a scoring system to aid in patient selection                       received 40 mg of atorvastatin daily to stabilize atherosclerotic plaques
+for intervention.                                                                 and lower lipid levels.
+
+
+Frontiers in Neurology                                                       02                                                             frontiersin.org
+Liu et al.                                                                                                                     10.3389/fneur.2025.1496852
+
+
+
+
+2.3.2 Surgical procedure                                                            2.6 Statistical analysis
+     All procedures were performed under general anesthesia by
+experienced neurointerventional surgeons. Each surgeon had at                            Statistical analyses were conducted using IBM SPSS Statistics
+least 5 years of experience in neurointerventional procedures,                      version 25.0 (SPSS Inc., Chicago, IL, USA). Categorical variables were
+including the treatment of chronic occlusions of large intracranial                 presented as counts and percentages, and compared using the
+vessels (minimum of 5 cases) or emergency thrombectomy (at                          chi-square test, continuity-corrected chi-square test, or Fisher’s exact
+least 10 cases). The annual caseload for intracranial stent                         test. Continuous variables were tested for normality using the
+placements exceeded 10 cases per surgeon in the previous                            Kolmogorov–Smirnov test. Data following a normal distribution were
+3 years (16).                                                                       expressed as mean ± standard deviation (SD) and compared using the
+     During the procedure, an initial dose of 3,000 units of heparin was            independent t-test, while non-normally distributed data were reported
+administered intravenously, with 1,000 additional units given every                 as median and interquartile range (IQR) and compared using the
+hour to maintain anticoagulation. A 5F or 6F intermediate catheter                  Mann–Whitney U test. A p-value ≤0.05 was considered
+was used to access the target vertebral artery. An intracranial                     statistically significant.
+microcatheter and neuroguidewire were employed to attempt passage                        Logistic regression was performed for variables with p ≤ 0.05 in
+through the occluded segment. If the guidewire failed to cross the                  univariate analysis, adjusted for age and gender. Multivariate logistic
+occlusion after 30 min of attempts, if the cumulative contrast volume               regression was then used to identify independent predictors, and
+exceeded 300 mL, or if the guidewire penetrated the vessel wall, the                scores were assigned based on the coefficients of significant variables.
+procedure was considered a failure of recanalization (17).                          Receiver operating characteristic (ROC) curves were used to evaluate
+     If successful, the microcatheter was advanced through the                      model performance, with the Youden index determining sensitivity
+occlusion, and intravascular angiography was performed to confirm                   and specificity. Area under the curve (AUC) values were interpreted
+that the guidewire was within the true lumen. Subsequently, a 300 cm                as follows: AUC ≤0.5 (low), 0.7 < AUC ≤0.9 (moderate), and AUC
+exchange guidewire was placed, and a 1.5 or 2.0 mm intracranial                     >0.9 (high).
+balloon was used for pre-dilation of the occlusion. If there was no
+elastic recoil or vascular dissection at the stenosis site, stenting was not
+required. However, if recoil or dissection occurred, an appropriately               3 Results
+sized balloon-expandable or self-expanding stent was deployed. If the
+stent did not fully expand, post-dilation was performed. A                              A total of 115 patients with symptomatic NABAO underwent
+recanalization was deemed successful if the final blood flow reached                endovascular treatment for recanalization. Among the patients, 78
+a modified Thrombolysis in Cerebral Infarction (mTICI) grade of 2b                  were male (67.2%) and 37 were female (32.2%), with an age range of
+or higher (18).                                                                     41 to 84 years (mean age 63.01 ± 9.47 years). The overall recanalization
+                                                                                    success rate was 81.7% (94/115). Demographic and lesion
+                                                                                    characteristics are summarized in Tables 1, 2.
+2.4 Postoperative management
+
+     Nimodipine was administered postoperatively to prevent                         3.1 Univariate analysis
+vasospasm, and blood pressure was strictly maintained between
+110–120/60–80 mmHg. DAPT was continued for 3 to 6 months after                          Univariate logistic regression analysis was performed to identify
+the procedure, followed by single antiplatelet therapy. Long-term                   factors associated with successful recanalization. The odds ratio (OR)
+lipid-lowering therapy with statins was prescribed to maintain stable               and 95% confidence interval (CI) for blunt-type vessel occlusion were
+cholesterol levels.                                                                 0.17 (95% CI: 0.060–0.481, p = 0.001), for occlusion length > 30 mm
+                                                                                    were 0.15 (95% CI: 0.040–0.566, p = 0.005), for absence or
+                                                                                    insufficiency of collateral circulation were 0.345 (95% CI: 0.128–0.933,
+2.5 Imaging assessment                                                              p = 0.036), and for time from diagnosis to surgery >3 months were
+                                                                                    0.202 (95% CI: 0.07–0.586, p = 0.003). These findings suggest that
+     Surgical outcomes and lesion imaging characteristics were                      each of these factors was associated with a lower likelihood of
+independently assessed by two neurointerventional specialists. In                   successful recanalization. The results of the univariate analysis are
+cases of disagreement, a third independent expert reviewed the images               detailed in Table 3.
+to reach a consensus. The presence of contrast filling at the distal end
+of the occlusion was defined as a stump, which was classified as either
+conical or blunt. Occlusion length was measured on lateral DSA                      3.2 Multivariate analysis
+images, from the point of occlusion to the distal reconstitution site,
+excluding curvature in the vessel. Occlusions were categorized as                       Multivariate logistic regression analysis, adjusted for age and
+≤30 mm or > 30 mm. If the distal end was not visible, the occlusion                 gender, was conducted on variables with p ≤ 0.05 in univariate
+length was considered >30 mm. On lateral DSA, two lines were drawn                  analysis. These variables included blunt morphology of the occlusion,
+from the confluence of the vertebral arteries to the basilar artery and             occlusion length > 30 mm, absence or insufficiency of distal
+from the established access point to the vertebral artery, with the angle           collateral compensation, and time from diagnosis to surgery
+formed between these lines recorded as the vertebro-basilar artery                  >3 months. The analysis identified the following as negative
+(VA-BA) non-planar angle (19).                                                      predictors of successful recanalization: blunt occlusion morphology
+
+
+Frontiers in Neurology                                                         03                                                             frontiersin.org
+Liu et al.                                                                                                                                                 10.3389/fneur.2025.1496852
+
+
+
+
+TABLE 1 Demographic characteristics.
+
+                                                       Failure group                        Success group                       Total (N = 115)                       p value
+                                                          (N = 21)                             (N = 94)
+ Age (years)                                               63.19 ± 7.731                          62.97 ± 9.848                       63.01 ± 9.466                     0.923
+
+ Male (%)                                                    18 (85.7)                               60 (63.8)                          78 (67.8)                       0.052
+
+ Hypertension (%)                                            15 (71.4)                               73 (77.7)                          88 (75.5)                       0.746
+
+ Diabetes mellitus (%)                                        6 (28.6)                               34 (36.2)                          40 (34.8)                       0.44
+
+ Hyperlipidemia (%)                                           7 (33.3)                               31 (33.0)                          38 (33.0)                       0.975
+
+ Hyperhomocysteinemia (%)                                     7 (33.3)                               27 (28.7)                          34 (29.6)                       0.676
+
+ Smoking (%)                                                  6 (28.6)                               13 (13.7)                          19 (16.5)                       0.187
+
+ Coronary artery disease (%)                                  5 (23.8)                               11 (11.7)                          16 (13.9)                       0.271
+
+ Total Cholesterol mg/dL                                  168.47 ± 41.70                          182.06 ± 50.01                      179.58 ± 4.72                     0.249
+
+ Creatinine mg/dL                                        0.94 (0.80–1.050)                       0.845 (0.67–1.01)                   0.86 (0.70–1.03)                   0.105
+
+ Estimated Glomerular Filtration Rate                      84.87 ± 25.40                          91.60 ± 30.39                       90.36 ± 29.55                     0.348
+ ml/min
+Estimated glomerular filtration rate, calculated from the diet change in renal disease (MDRD) formula.
+
+
+TABLE 2 Lesion characteristics.
+
+                                                                               Failure group                         Success group                        Total           p value
+                                                                                  (N = 21)                              (N = 94)                        (N = 115)
+ Calcification over occluded segment (%)                                              3 (14.3)                           9 (9.60)                        12 (10.4)          0.807
+
+ Occlusion stump condition
+
+  Tapered (%)                                                                        7 (33.3)                          70 (74.5)                        77 (67.00)        < 0.001
+
+  Blunt (%)                                                                         14 (66.7)                          24 (25.5)                        38 (33.0)
+
+ Angle of basilar artery and vertebral artery >45° (%)                               10 (47.6)                          30 (31.9)                        40 (34.8)          0.172
+
+ Occlusion length > 30 mm (%)                                                         6 (28.6)                           6 (6.4)                         12 (10.4)          0.009
+
+ Occlusion site
+
+  BA distal (%)                                                                     4 (19.05)                          12 (12.77)                       16 (13.91)         0.280
+
+  BA mid-end (%)                                                                    8 (38.10)                          22 (23.40)                       30 (26.09)
+
+  BA proximal (%)                                                                   9 (42.85)                          60 (63.83)                       69 (60.00)
+
+ Good collateral circulation (%)                                                      9 (42.9)                          62 (66.0)                        71 (61.7)          0.049
+
+ Time from diagnosis of vessel occlusion to endovascular intervention
+
+  ≤ 3 months
+                                                                                     9 (42.9)                          75 (79.8)                        84 (73.0)          0.001
+
+  > 3 months                                                                        12 (57.1)                          19 (20.2)                        31 (27.0)
+
+
+
+(OR: 0.236, 95% CI: 0.072–0.777), occlusion time > 3 months (OR:                                   distal collateral compensation was assigned 1 point. The total score for
+0.187, 95% CI: 0.051–0.688), occlusion length > 30 mm (OR: 0.144,                                  each patient ranged from 0 to 6 points. A receiver operating
+95% CI: 0.031–0.669), and absence or insufficiency of distal collateral                            characteristic (ROC) curve was generated using this scoring system
+compensation (OR: 0.25, 95% CI: 0.075–0.835). These results are                                    (Figure 1). The Youden index was calculated to be 0.568, and the area
+shown in Table 4.                                                                                  under the curve (AUC) was 0.817 (95% CI: 0.698–0.936, p < 0.001).
+                                                                                                   The optimal cutoff score was 2.5 points. Patients with a score of 0–2
+                                                                                                   had a higher likelihood of successful recanalization, with a sensitivity
+3.3 Basilar artery occlusion scoring system                                                        of 0.714 and specificity of 0.854.
+
+    A predictive scoring system was developed based on the
+coefficients from the multivariate analysis. The point assignment for                              3.4 Example case
+each predictor was determined by rounding the absolute values of
+their multivariate logistic regression coefficients to the nearest integer.                            An 84-year-old female presented with speech impairment for
+Time from diagnosis to surgery >3 months was assigned 2 points,                                    4 days, which worsened with dysphagia over the last 2 days (0 points
+blunt occlusion morphology was assigned 1 point, occlusion                                         for symptoms). CTA and DSA indicated proximal and mid-basilar
+length > 30 mm was assigned 2 points, and absence or insufficiency of                              artery occlusion (Figures 2A,B), with a blunt stump morphology (1
+
+
+Frontiers in Neurology                                                                       04                                                                         frontiersin.org
+Liu et al.                                                                                                                                             10.3389/fneur.2025.1496852
+
+
+
+
+TABLE 3 Single factor logistic regression analysis of successful factors for intravascular recanalization.
+
+                                                                                                              OR (95% Cl)                                 p value
+ Hypertension                                                                                                 0.658 (0.217–1.997)                           0.46
+
+ Diabetes mellitus                                                                                            0.816 (0.279–2.385)                           0.71
+
+ Hyperlipidemia                                                                                               1.067 (0.383–2.976)                           0.901
+
+ Hyperhomocysteinemia                                                                                         1.089 (0.388–3.057)                           0.871
+
+ Smoking history                                                                                              1.974 (0.599–6.498)                           0.263
+
+ Coronary heart disease                                                                                       1.281 (0.311–5.288)                           0.732
+
+ Total cholesterol                                                                                            1.007 (0.996–1.018)                           0.207
+
+ Creatinine                                                                                                   1.056 (0.423–2.632)                           0.908
+
+ Estimated Glomerular Filtration Rate                                                                         1.006 (0.989–1.024)                           0.492
+
+ Calcification at the occlusion site                                                                          1.529 (0.333–7.012)                           0.585
+
+ Blunt                                                                                                        0.17 (0.060–0.481)                            0.001
+
+ Angle of basilar artery and vertebral artery >45°                                                            1.699 (0.638–4.530)                           0.289
+
+ Occlusion length > 30 mm                                                                                     0.15 (0.040–0.566)                            0.005
+
+ Occlusion site
+
+  BA distal                                                                                                  1.173 (0.219–6.288)                           0.852
+
+  BA mid-end                                                                                                 1.443 (0.364–5.716)                           0.601
+
+  BA proximal                                                                                                0.506 (0.166–1.548)                           0.233
+
+ Absent or insufficient distal collateral compensation                                                        0.345 (0.128–0.933)                           0.036
+
+ Time from diagnosis of vascular occlusion to surgery >3 months                                               0.202 (0.07–0.586)                            0.003
+OR, Odds Ratio; CI, Confidence Interval. Bold values indicate statistically significant results (p < 0.05).
+
+
+
+TABLE 4 Multivariate logistic regression analysis after adjusting for gender and age.
+
+                                                                                      Coefficient                                   OR (95% CI)                p value
+ Gender                                                                                     −0.868                                 0.42 (0.091–1.938)               0.266
+
+ Age                                                                                         0.015                              1.015 (0.948–1.086)                 0.678
+
+ Operation time > 3 months                                                                  −1.678                              0.187 (0.051–0.688)                 0.012
+
+ Blunt                                                                                      −1.443                              0.236 (0.072–0.777)                 0.018
+
+ Occlusion length > 30 mm                                                                   −1.936                              0.144 (0.031–0.669)                 0.013
+
+ Absent or insufficient distal collateral compensation                                      −1.385                                 0.25 (0.075–0.835)               0.024
+
+OR, Odds Ratio; CI, Confidence Interval. Bold values indicate statistically significant results (p < 0.05).
+
+
+
+point) (Figures 2A,B, red arrow), and good collateral compensation to                                  bypass surgery demonstrated positive outcomes; however, surgical
+the distal occlusion site (0 points). The occlusion length was <30 mm                                  revascularization of the posterior circulation is more challenging than
+(0 points), resulting in a total lesion score of 1 point. Based on the                                 that of the anterior circulation, necessitating experienced centers and
+scoring system, the patient had a high likelihood of successful                                        surgeons. Additionally, the study had a limited sample size (with only
+endovascular recanalization (Figure 2C).                                                               12 BAO patients enrolled) (26). Consequently, this procedure has not
+                                                                                                       been widely adopted. The evolution of EVT for ABAO has been shaped
+                                                                                                       by conflicting evidence from early and recent clinical trials. Early
+4 Discussion                                                                                           randomized controlled trials (RCTs), such as the Endovascular
+                                                                                                       Treatment versus Standard Medical Treatment for Basilar Artery
+    Recent studies indicate that non-acute occlusions of large                                         Occlusion (BEST) trial and the Basilar Artery International Cooperation
+intracranial arteries are more prevalent among Asians, Hispanics, and                                  Study (BASICS), did not demonstrate the superiority of EVT combined
+African Americans (20). BAO occurs in approximately 1.2–2.5% of                                        with BMT despite numerical trends favoring thrombectomy (22, 27).
+strokes, making it the most common site of posterior circulation                                       Indeed, the high crossover rate in the BEST trial and the lack of
+vascular occlusion (21–23). Currently, there are no established domestic                               continuous enrollment in BASICS limited the certainty of their results.
+or international guidelines for the EVTof NABAO. Symptomatic                                           Recent RCTs, such as ATTENTION and BAOCHE, focused on patients
+intracranial artery occlusion carries an annual stroke risk of up to 23.4%                             with moderate-to-severe neurological deficits (NIHSS ≥10) and
+(24, 25). A non-randomized controlled study on posterior circulation                                   extended the treatment time window to 24 h. These trials clearly
+
+
+Frontiers in Neurology                                                                            05                                                                   frontiersin.org
+Liu et al.                                                                                                                        10.3389/fneur.2025.1496852
+
+
+
+
+     FIGURE 1
+     ROC curve of the scoring scale for successful recanalization by endovascular interventional treatment. The c-index on the based of area under the
+     curve for basilar artery occlusion scoring system in predicting successful recanalization by endovascular interventional treatment was 0.817 (95% CI:
+     0.698–0.936, p < 0.001).
+
+
+
+
+     FIGURE 2
+     CTA and DSA images in case 1. (A) CTA shows the degree of basilar artery occlusion, the shape of the stump (red arrow), collateral circulation
+     compensation, and the length of occlusion. (B) BSA shows the degree of basilar artery occlusion, the shape of the stump (red arrow), collateral
+     circulation compensation, and the length of occlusion. (C) BSA after successful recanalization by endovascular interventional therapy.
+
+
+
+
+Frontiers in Neurology                                                         06                                                                 frontiersin.org
+Liu et al.                                                                                                                     10.3389/fneur.2025.1496852
+
+
+
+
+demonstrated the significant advantages of EVT: the ATTENTION trial                morphology of the occlusion stump is associated with recanalization
+(46% vs. 23%) and the BAOCHE trial (46% vs. 24%) found that the                    difficulty (33). A tapered (conical) stump facilitates smoother
+proportion of patients achieving a mRS score of 0–3 at 90 days was                 guidewire passage through the occlusion, whereas a blunt stump
+significantly higher in the EVT group compared to the BMT group for                decreases the success rate of guidewire traversal. Our study also
+acute BAO patients within 12 h and 6–24 h from symptom onset,                      highlighted that occlusions longer than 30 mm have lower success
+respectively (18, 28). Finally, a meta-analysis of the aforementioned four         rates, possibly due to increased difficulty in guidewire navigation and
+studies revealed that, for stroke patients treated within 12 h of onset,           a higher risk of vessel wall injury. These findings suggest that both
+endovascular therapy significantly improved rates of favorable                     longer lesion length and blunt occlusion morphology are negative
+functional recovery (45% vs. 30%) and functional independence (35%                 predictors for successful EVT recanalization. Such information is
+vs. 21%) at 90 days, reduced mortality (36% vs. 45%) and overall                   valuable in preoperative patient selection, helping to identify those
+disability severity, but increased the risk of symptomatic intracranial            who are more likely to benefit from EVT.
+hemorrhage (5% vs. <1%) compared to the control group. Additionally,
+treatment benefits were more pronounced in patients with baseline
+NIHSS ≥10 and those with proximal vascular occlusions (9). These                   4.3 Collateral circulation and distal
+findings align with the updated European Stroke Organization (ESO)                 occlusion condition
+guidelines recommending EVT + BMT for BAO within 24 h in eligible
+patients, emphasizing the critical role of time-sensitive, imaging-guided               Our study also indicated that the condition of the distal end of the
+decision-making (10). Its efficacy is comparable to that of EVT for                occlusion plays a critical role in EVT. Visualization of the distal vessel
+anterior circulation large vessel occlusions, providing new evidence-              via retrograde perfusion provides a target for guidewire navigation,
+based support for the treatment of basilar artery occlusion.                       facilitating accurate traversal of the occlusion and reducing procedural
+     Li et al. retrospectively analyzed 18 patients with non-acute dominant        difficulty. Previous studies have identified poor collateral circulation
+vertebrobasilar artery occlusion and compared them with 32 patients with           as a risk factor for hyperperfusion syndrome (34), while robust
+acute atherosclerotic vertebrobasilar artery occlusion undergoing EVT              collateral networks may decrease the incidence of hyperperfusion
+(29). Successful recanalization was achieved in 16 cases (88.9%) of                injury. Additionally, good collateral circulation is associated with
+non-acute occlusion and 30 cases (93.8%) of acute occlusion (p = 0.948),           higher recanalization success rates (35). Our findings are consistent
+indicating no significant difference between the groups. Furthermore, the          with previous studies, and these factors play a crucial role in informing
+modified Rankin Scale (mRS) scores at 90 days post-procedure were                  our preoperative evaluations.
+comparable, suggesting that EVT for non-acute occlusion yields similar                  Based on our statistical findings, we developed a scoring system
+clinical outcomes and success rates as for acute occlusion.                        to identify patients who are most likely to benefit from EVT
+     However, recanalization of basilar artery occlusions remains                  recanalization. This tool aids in patient selection by quantifying
+technically challenging due to variations in occlusion length and access           negative predictors, thereby avoiding unnecessary risks in patients
+vessel curvature. Complications at the occlusion site, such as hemorrhage          with a lower likelihood of procedural success and guiding
+and vascular dissection, can lead to catastrophic outcomes. Therefore,             alternative treatment strategies for them. In clinical practice,
+comprehensive preoperative evaluation, particularly of lesion                      clinicians can assign scores to patients based on four readily
+characteristics, is essential for predicting recanalization success and            assessable parameters (occlusion duration, morphology, length,
+aiding operators in assessing the feasibility of occlusion reopening.              and collateral compensation). Patients with a score ≤ 2 points (e.g.,
+                                                                                   occlusion duration ≤3 months, tapered stump, length ≤ 30 mm,
+                                                                                   good collaterals) have an over 80% probability of successful
+4.1 Occlusion time and technical success                                           recanalization, justifying the treatment. On the other hand, patients
+rate                                                                               with a score > 2 points may require careful consideration. However,
+                                                                                   since this model was developed using historical data, it may
+    Previous studies suggest that EVT within three months of                       overestimate performance in real-world settings due to selection
+occlusion onset may be feasible for patients with intracranial artery              bias. Additionally, this scoring system does not account for
+occlusion (30, 31). The success rate of vascular recanalization                    intraoperative factors (e.g., operator experience). Future studies are
+decreases as the duration of occlusion increases due to thrombus                   expected to refine the scoring criteria by integrating high-
+organization and fibrosis, leading to calcified plaque formation and               resolution vessel wall imaging (HR-VWI) and perform external
+increased difficulty in traversing the occlusion with microguidewires              validation in geographically diverse cohorts (e.g., European and
+(32). Currently, there is no consensus on the optimal timing for EVT               North American centers) to assess its generalizability across
+in NABAO, and further multicenter randomized studies are needed                    populations with varying occlusion etiologies and treatment
+to provide high-quality evidence. Our findings also suggest that a                 protocols.
+longer duration of occlusion is associated with a lower likelihood of                   This study has several limitations. Due to the retrospective
+successful recanalization.                                                         multicenter design and the lack of high-resolution vessel wall imaging
+                                                                                   (HR-VWI) data, our ability to explore these vessel wall characteristics
+                                                                                   as potential predictors is limited. Additionally, the retrospective nature
+4.2 Vascular occlusion residual end                                                of this study may introduce selection bias, and there is a lack of long-
+morphology and length                                                              term follow-up data. Future prospective studies should expand the
+                                                                                   sample size, integrate HR-VWI to validate the findings and refine the
+   A multicenter retrospective study on EVT for symptomatic                        predictive model, and extend follow-up duration to assess long-term
+non-acute extracranial vertebral artery occlusion indicated that the               clinical outcomes.
+
+Frontiers in Neurology                                                        07                                                              frontiersin.org
+Liu et al.                                                                                                                                               10.3389/fneur.2025.1496852
+
+
+
+
+5 Conclusion                                                                                     Writing – review & editing. SX: Conceptualization, Methodology,
+                                                                                                 Writing – review & editing. BH: Conceptualization, Methodology,
+    This study identifies several independent negative predictors of                             Writing – review & editing. CQ: Conceptualization, Funding
+successful recanalization in EVT for NABAO. These predictors include                             acquisition, Supervision, Writing – review & editing. WG:
+a time interval from diagnosis to surgery greater than 3 months, blunt                           Conceptualization, Funding acquisition, Methodology, Supervision,
+occlusion stump morphology, an occlusion length exceeding 30 mm,                                 Validation, Writing – review & editing. ZY: Conceptualization,
+and insufficient or absent distal collateral compensation. Recognizing                           Funding acquisition, Methodology, Supervision, Validation, Writing –
+these factors is critical in preoperative patient selection and may help                         review & editing.
+clinicians optimize treatment strategies by identifying those patients
+most likely to benefit from endovascular intervention while
+considering alternative approaches for those with a lower likelihood                             Funding
+of success.
+                                                                                                     The author(s) declare that financial support was received for the
+                                                                                                 research and/or publication of this article. The research leading to
+Data availability statement                                                                      these results received funding from Joint Project on Regional High-
+                                                                                                 Incidence Diseases Research of Guangxi Natural Science Foundation
+    The raw data supporting the conclusions of this article will                                 under Grant No. 2024GXNSFAA010221, National Nature and Science
+be made available by the authors, without undue reservation.                                     Foundation of China under Grant Agreement Nos. 82360456,
+                                                                                                 82060226, and 82260240, Guangxi Nature and Science Foundation
+                                                                                                 under Grant Agreement Nos. 2018GXNSFAA138010, and
+Ethics statement                                                                                 2019GXNSFAA185029, as well as “Medical Excellent Award” funded
+                                                                                                 by the Creative Research Development Grant from the First Affiliated
+     The studies involving humans were approved by the Medical                                   Hospital of Guangxi Medical University under Grant Agreement Nos.
+Ethics Committee of the First Affiliated Hospital of Guangxi Medical                             201907 and 202101. These fundings play important roles in the study
+University. The studies were conducted in accordance with the local                              design, acquisition analysis and interpretation of data, as well as in
+legislation and institutional requirements. Written informed consent                             drafting the manuscript.
+for participation was not required from the participants or the
+participants' legal guardians/next of kin due to the retrospective
+nature of this study.                                                                            Conflict of interest
+                                                                                                     The authors declare that the research was conducted in the
+Author contributions                                                                             absence of any commercial or financial relationships that could
+                                                                                                 be construed as a potential conflict of interest.
+    YL: Conceptualization, Data curation, Formal analysis,
+Methodology, Software, Validation, Visualization, Writing – original
+draft, Writing – review & editing. ZW: Conceptualization, Data                                   Publisher’s note
+curation, Formal analysis, Methodology, Software, Validation,
+Visualization, Writing – original draft, Writing – review & editing.                                 All claims expressed in this article are solely those of the authors
+SW: Conceptualization, Data curation, Formal analysis, Methodology,                              and do not necessarily represent those of their affiliated organizations,
+Software, Validation, Visualization, Writing – original draft, Writing –                         or those of the publisher, the editors and the reviewers. Any product
+review & editing. WH: Conceptualization, Data curation, Writing –                                that may be evaluated in this article, or claim that may be made by its
+review & editing. WY: Conceptualization, Data curation,                                          manufacturer, is not guaranteed or endorsed by the publisher.
+
+
+
+References
+   1. Yogendrakumar V, Vandelanotte S, Mistry EA, Hill MD, Coutts SB, Nogueira RG,                 6. Hutten EM, van de Ven A, Mencke R, Pleijhuis RG. Angioedema after use of
+et al. Emerging adjuvant thrombolytic therapies for acute ischemic stroke reperfusion.           recombinant tissue-type plasminogen activators in stroke. Stroke. (2024) 55:2193–7. doi:
+Stroke. (2024) 55:2536–46. doi: 10.1161/strokeaha.124.045755                                     10.1161/strokeaha.124.047060
+  2. Lu K, Ni W, Yue J, Cheng Y, Du J, Li Y, et al. Flow cytometry-based peripheral blood          7. Costalat V, Jovin TG, Albucher JF, Cognard C, Henon H, Nouri N, et al. Trial of
+analysis as an easily friendly tool for prognostic monitoring of acute ischemic stroke: a        Thrombectomy for stroke with a large infarct of unrestricted size. N Engl J Med. (2024)
+multicenter study. Front Immunol. (2024) 15:1402724. doi: 10.3389/fimmu.2024.1402724             390:1677–89. doi: 10.1056/NEJMoa2314063
+   3. Kim J, Hong U, Yoon CW, Bae JW, Rha JH, Park HK. Pcsk 9 inhibitor in acute                    8. Kim J, Olaiya MT, De Silva DA, Norrving B, Bosch J, De Sousa DA, et al. Global
+ischemic stroke patient receiving mechanical Thrombectomy: early outcomes and safety.            stroke statistics 2023: availability of reperfusion services around the world. Int J Stroke.
+Front Neurol. (2024) 15:1375609. doi: 10.3389/fneur.2024.1375609                                 (2024) 19:253–70. doi: 10.1177/17474930231210448
+  4. Xu H, Li H, Zhang P, Gao Y, Liu H, Shen H, et al. Reperfusion status and                      9. Nogueira RG, Jovin TG, Liu X, Hu W, Langezaal LCM, Li C, et al. Endovascular
+postoperative blood pressure in acute stroke patients after endovascular treatment. Front        therapy for acute vertebrobasilar occlusion (VERITAS): a systematic review and
+Neurol. (2023) 14:1238653. doi: 10.3389/fneur.2023.1238653                                       individual patient data meta-analysis. Lancet. (2025) 405:61–9. doi:
+                                                                                                 10.1016/S0140-6736(24)01820-8
+  5. Zi W, Song J, Kong W, Huang J, Guo C, He W, et al. Tirofiban for stroke without
+large or medium-sized vessel occlusion. N Engl J Med. (2023) 388:2025–36. doi:                     10. Strbian D, Tsivgoulis G, Ospel J, Räty S, Cimflova P, Georgiopoulos G, et al.
+10.1056/NEJMoa2214299                                                                            European stroke organisation (ESO) and European Society for Minimally Invasive
+
+
+
+
+Frontiers in Neurology                                                                      08                                                                             frontiersin.org
+Liu et al.                                                                                                                                                10.3389/fneur.2025.1496852
+
+
+
+
+Neurological Therapy (ESMINT) guideline on acute management of basilar artery                       23. Schonewille WJ. Best evidence on mechanical thrombectomy for patients with
+occlusion. J Neurointerv Surg. (2024) 16:e7:1–32. doi: 10.1136/jnis-2024-022053                   vertebrobasilar occlusion. Lancet Neurol. (2020) 19:102–3. doi: 10.1016/s1474-
+                                                                                                  4422(19)30477-6
+  11. Naylor R, Rantner B, Ancetti S, de Borst GJ, De Carlo M, Halliday A, et al. Editor's
+choice-European Society for Vascular Surgery (Esvs) 2023 clinical practice guidelines               24. Yan S, Feng H, Ma L, Xu JC, Han HJ, Huang HE, et al. Predictors of successful
+on the Management of Atherosclerotic Carotid and Vertebral Artery Disease. Eur J Vasc             endovascular recanalization in patients with symptomatic nonacute intracranial large
+Endovasc Surg. (2023) 65:7–111. doi: 10.1016/j.ejvs.2022.04.011                                   artery occlusion. BMC Neurol. (2023) 23:376. doi: 10.1186/s12883-023-03424-y
+ 12. Bathla G, Ajmera P, Mehta PM, Benson JC, Derdeyn CP, Lanzino G, et al.                         25. Xiong Y, Campbell BCV, Schwamm LH, Meng X, Jin A, Parsons MW, et al.
+Advances in acute ischemic stroke treatment: current status and future directions. AJNR           Tenecteplase for ischemic stroke at 4.5 to 24 hours without thrombectomy. N Engl J Med.
+Am J Neuroradiol. (2023) 44:750–8. doi: 10.3174/ajnr.A7872                                        (2024) 391:203–12. doi: 10.1056/NEJMoa2402980
+  13. Gao F, Han J, Guo X, Sun X, Ma N, Miao Z. Endovascular recanalization for non-                26. Yao YD, Liu AF, Qiu HC, Zhou J, Li C, Wang Q, et al. Outcomes of late endovascular
+acute basilar artery occlusions with progressive or recurrent ischemic symptoms: a                recanalization for symptomatic non-acute atherosclerotic intracranial large artery occlusion.
+multicenter clinical experience. J Neurointervent Surg. (2022) 14:133–7. doi:                     Clin Neurol Neurosurg. (2019) 187:105567. doi: 10.1016/j.clineuro.2019.105567
+10.1136/neurintsurg-2020-017213
+                                                                                                    27. Liu X, Dai Q, Ye R, Zi W, Liu Y, Wang H, et al. Endovascular treatment versus standard
+  14. Zhou Z, Li T, Zhu L, Wu L, Guan M, Ma Z, et al. Endovascular recanalization of              medical treatment for vertebrobasilar artery occlusion (BEST): an open-label, randomised
+symptomatic non-acute occlusion of the vertebrobasilar artery. Front Neurol. (2023)               controlled trial. Lancet Neurol. (2020) 19:115–22. doi: 10.1016/S1474-4422(19)30395-3
+14:1125244. doi: 10.3389/fneur.2023.1125244
+                                                                                                    28. Tao C, Nogueira RG, Zhu Y, Sun J, Han H, Yuan G, et al. Trial of endovascular
+  15. Lu G, Wang J, Wang T, Xu X, Li X, Sun X, et al. Incidence and predictors of                 treatment of acute basilar-artery occlusion. N Engl J Med. (2022) 387:1361–72. doi:
+restenosis following successful recanalization of non-acute internal carotid artery               10.1056/NEJMoa2206317
+occlusion in 252 cases. J Neurointervent Surg. (2024) 17:242–7. doi:
+                                                                                                    29. Duan H, Chen L, Shen S, Zhang Y, Li C, Yi Z, et al. Staged endovascular treatment
+10.1136/jnis-2024-021553
+                                                                                                  for symptomatic occlusion originating from the intracranial vertebral arteries in the
+ 16. Qureshi AI, Abou-Chebl A, Jovin TG. Qualification requirements for performing                early non-acute stage. Front Neurol. (2021) 12:673367. doi: 10.3389/fneur.2021.673367
+Neurointerventional procedures: a report of the practice guidelines Committee of the
+                                                                                                    30. Lindsberg PJ, Sairanen T, Nagel S, Salonen O, Silvennoinen H, Strbian D.
+American Society of neuroimaging and the Society of Vascular and Interventional
+                                                                                                  Recanalization treatments in basilar artery occlusion-systematic analysis. Eur Stroke J.
+Neurology. J Neuroimag. (2008) 18:433–47. doi: 10.1111/j.1552-6569.2007.00210.x
+                                                                                                  (2016) 1:41–50. doi: 10.1177/2396987316629889
+  17. Chen K, Hou X, Zhou Z, Li G, Liu Q, Gui L, et al. The efficacy and safety of
+                                                                                                    31. Zi W, Qiu Z, Wu D, Li F, Liu H, Liu W, et al. Assessment of endovascular treatment
+endovascular recanalization of occluded large cerebral arteries during the subacute
+                                                                                                  for acute basilar artery occlusion via a Nationwide prospective registry. JAMA Neurol.
+phase of cerebral infarction: a case series report. Stroke Vasc Neurol. (2017) 2:124–31.
+                                                                                                  (2020) 77:561–73. doi: 10.1001/jamaneurol.2020.0156
+doi: 10.1136/svn-2017-000086
+                                                                                                    32. Gao P, Wang Y, Ma Y, Yang Q, Song H, Chen Y, et al. Endovascular recanalization
+  18. Jovin TG, Li C, Wu L, Wu C, Chen J, Jiang C, et al. Trial of Thrombectomy 6 to 24
+                                                                                                  for chronic symptomatic intracranial vertebral artery Total occlusion: experience of a
+hours after stroke due to basilar-artery occlusion. N Engl J Med. (2022) 387:1373–84.
+                                                                                                  single center and review of literature. J Neuroradiol. (2018) 45:295–304. doi:
+doi: 10.1056/NEJMoa2207576
+                                                                                                  10.1016/j.neurad.2017.12.023
+  19. Chen YH, Leong WS, Lin MS, Huang CC, Hung CS, Li HY, et al. Predictors for
+                                                                                                    33. Gao F, Zheng H, Guo X, Sun X, Miao Z. A novel angiographic classification
+successful endovascular intervention in chronic carotid artery Total occlusion. JACC
+                                                                                                  for the endovascular recanalization of symptomatic nonacute extracranial vertebral
+Cardiovasc Interv. (2016) 9:1825–32. doi: 10.1016/j.jcin.2016.06.015
+                                                                                                  artery occlusion. J Neurointervent Surg. (2022) 14:210–4. doi:
+  20. Barnard ZR, Alexander MJ. Update in the treatment of intracranial atherosclerotic           10.1136/neurintsurg-2021-017283
+disease. Stroke Vasc Neurol. (2020) 5:59–64. doi: 10.1136/svn-2019-000279
+                                                                                                    34. Xu S, Sun B, Zhang T, Wu P, Ji Z, Wang C, et al. Staged carotid artery stenting for
+  21. Alemseged F, Nguyen TN, Alverne FM, Liu X, Schonewille WJ, Nogueira RG.                     prevention of hyperperfusion-induced intracerebral hemorrhage in patients with very
+Endovascular therapy for basilar artery occlusion. Stroke. (2023) 54:1127–37. doi:                high-grade carotid stenosis and poor collateral compensation. World Neurosurg. (2023)
+10.1161/strokeaha.122.040807                                                                      171:e38–46. doi: 10.1016/j.wneu.2022.11.057
+  22. Langezaal LCM, van der Hoeven E, Mont'Alverne FJA, de Carvalho JJF, Lima FO,                  35. Liu Y, Tian X, Leung TW, Liu L, Liebeskind DS, Leng X. Good collaterals and
+Dippel DWJ, et al. Endovascular therapy for stroke due to basilar-artery occlusion. N             better outcomes after Evt for basilar artery occlusion: a systematic review and meta-
+Engl J Med. (2021) 384:1910–20. doi: 10.1056/NEJMoa2030297                                        analysis. Int J Stroke. (2023) 18:917–26. doi: 10.1177/17474930231154797
+
+
+
+
+Frontiers in Neurology                                                                       09                                                                              frontiersin.org
+
