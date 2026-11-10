@@ -10,7 +10,7 @@
   - 检索式与筛选流程：[`literature/01_search_strategy.md`](literature/01_search_strategy.md)
   - 证据综合：[`literature/03_synthesis.md`](literature/03_synthesis.md)
   - 13 篇开放全文的深度阅读笔记：[`literature/04_reading_notes.md`](literature/04_reading_notes.md)
-  - 7 篇 PDF、6 篇 Europe PMC 全文 XML、结构化 `evidence_table.csv`、`references.bib`
+  - 7 篇 PDF、11 份 Europe PMC 全文 XML（6 篇仅 XML）、结构化 `evidence_table.csv`、`references.bib`
 - **30 页组会 PPT**：[`slides/后循环慢性闭塞再通_组会汇报_30页.pptx`](slides/后循环慢性闭塞再通_组会汇报_30页.pptx)
   - PDF 版：[`slides/后循环慢性闭塞再通_组会汇报_30页.pdf`](slides/后循环慢性闭塞再通_组会汇报_30页.pdf)
   - 幻灯片结构、数据来源与再生成方法：[`slides/README.md`](slides/README.md)
