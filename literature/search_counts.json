@@ -1,0 +1,18 @@
+{
+ "Q1_chronic_endovascular": {
+  "count": 133,
+  "retrieved": 133
+ },
+ "Q2_nonacute_endovascular": {
+  "count": 61,
+  "retrieved": 61
+ },
+ "Q3_stent_elective": {
+  "count": 92,
+  "retrieved": 92
+ },
+ "Q4_title_specific": {
+  "count": 32,
+  "retrieved": 32
+ }
+}
